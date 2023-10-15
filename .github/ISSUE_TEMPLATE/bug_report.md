@@ -7,27 +7,24 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Comportamiento Esperado
+Inserta una breve descripción del comportamiento esperado para el escenario de pruebas ejecutado.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Comportamiento Actual
+Inserta una breve descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Pasos a reproducir
+1.
+2.
+3.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Evidencias
+Inserta conjunto de imagenes o videos que complementan la información dada en el reporte.
 
-**Environment (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Contexto
+**Versión de la app:** 5.69.1
+**Sistema Operativo:** Windows 11
+**Navegador (nombre y versión):** Chrome v.117
 
-**Additional context**
-Add any other context about the problem here.
+## Información adicional
+Inserta datos adicionales a los que se tenga acceso respecto al defecto.
